@@ -1,0 +1,29 @@
+header {
+  border: 1px solid #d3d6da;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.wordle-word {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.menu-icons img {
+  width: 50px;
+}
+
+.setting-icons {
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 50px 0 0;
+}

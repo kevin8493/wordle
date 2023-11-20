@@ -1,0 +1,50 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin-top: 100px;
+  bottom: 0;
+  cursor: pointer;
+}
+
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  gap: 5px;
+  font-weight: bolder;
+}
+
+.keyboard-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d6da;
+  width: 60px;
+  height: 60px;
+}
+
+.keyboard-block1 {
+  width: 90px;
+  height: 60px;
+  background-color: #d3d6da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-block9 {
+  width: 90px;
+  height: 60px;
+  background-color: #d3d6da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keyboard-block9 img {
+  width: 50px;
+}
