@@ -18,7 +18,7 @@ footer {
   font-weight: bolder;
 }
 
-.keyboard-block {
+.keyboard-column {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +27,7 @@ footer {
   height: 60px;
 }
 
-.keyboard-block1 {
+.keyboard-column1 {
   width: 90px;
   height: 60px;
   background-color: #d3d6da;
@@ -36,7 +36,7 @@ footer {
   align-items: center;
 }
 
-.keyboard-block9 {
+.keyboard-column9 {
   width: 90px;
   height: 60px;
   background-color: #d3d6da;
@@ -45,6 +45,6 @@ footer {
   align-items: center;
 }
 
-.keyboard-block9 img {
+.keyboard-column9 img {
   width: 50px;
 }
